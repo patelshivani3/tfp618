@@ -1,0 +1,12 @@
+1  rahul Manager 52000
+2  yash  clerk   35000
+3  niya  manager 53000
+4  dev   peon    8490
+5  ram   clerk   6000
+6  riya  manager 72000
+7  om    peon    5000
+8  nidhi manager 43000
+9  dhruv peon    18490
+10 neel  clerk   26000
+11 nitya clerk   21000
+

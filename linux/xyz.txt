@@ -1,0 +1,5 @@
+1 rahul 2000  yes
+2 yash  5000  yes
+3 niya  3000  no
+4 dev   8490  no
+5 ram   6000  yes
